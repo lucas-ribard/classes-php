@@ -11,7 +11,7 @@
 <meta charset="utf-8">
 
 <head>
-    <title>Reservation</title>
+    <title>Classes-php</title>
     <link href="CSS/index.css" rel="stylesheet" type="text/css"/>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
